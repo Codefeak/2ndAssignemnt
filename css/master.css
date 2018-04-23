@@ -29,9 +29,17 @@ margin-bottom: 5px;
   padding:30px;
   text-transform: uppercase;
   list-style: none;
-  color:#8d8c8d;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
+}
+
+#main-button li a{
+  color:#8d8c8d;
+  text-decoration: none;
+}
+
+#main-button li a:hover{
+  color:#C8C10E;
 }
 
 .mid-container{
